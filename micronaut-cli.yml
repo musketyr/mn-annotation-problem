@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.annotation.problem
+---
+testFramework: spock
+sourceLanguage: groovy
